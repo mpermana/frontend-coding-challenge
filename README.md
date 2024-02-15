@@ -1,6 +1,6 @@
 # Luxor Full-stack Applications Challenge: Bidding System
 
-Welcome to Luxor's Data Engineer Coding Challenge.
+Welcome to Luxor's Application Engineer Coding Challenge.
 
 ### Guidelines
 
