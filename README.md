@@ -49,6 +49,7 @@ user {
 ### Example Layout
 ![image](https://github.com/LuxorLabs/frontend-coding-challenge/assets/22500561/1fa87d6d-946c-478b-bcd7-3d22dfaee398)
 
+***Design is just an example, you can do nested cards or nested table or others, totally up to you***
 
 ### Judging Criteria
 - Code Quality
