@@ -44,6 +44,10 @@ user {
 4. Feel free to utilize [shadcn](ui.shadcn.com) and other ui lib for the frontend part.
 
 
+### Example Layout
+![Screenshot 2024-02-16 at 01 36 18@2x](https://github.com/LuxorLabs/frontend-coding-challenge/assets/22500561/d8ba6bd7-a230-43b6-8b9d-36eac8ba65fe)
+
+
 ### Judging Criteria
 - Code Quality
 - Code Structure
