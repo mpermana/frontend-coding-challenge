@@ -44,13 +44,13 @@ user {
         - an icon/button to accept bid
     - otherwise, an icon/button to add/edit/cancel bid
 4. Forms (modals or page): create/update collection, create/update bid
-5. Feel free to utilize [shadcn](ui.shadcn.com) and other ui lib for the frontend part.
 
 
 ### Example Layout
 ![image](https://github.com/LuxorLabs/frontend-coding-challenge/assets/22500561/1fa87d6d-946c-478b-bcd7-3d22dfaee398)
 
 ***Design is just an example, you can do nested cards or nested table or others, totally up to you***
+***Feel free to utilize [shadcn](ui.shadcn.com) and other ui lib for the frontend part.***
 
 ### Judging Criteria
 - Code Quality
