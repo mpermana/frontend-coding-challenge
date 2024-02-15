@@ -43,7 +43,8 @@ user {
         - an icon/button to update/delete collection 
         - an icon/button to accept bid
     - otherwise, an icon/button to add/edit/cancel bid
-4. Feel free to utilize [shadcn](ui.shadcn.com) and other ui lib for the frontend part.
+4. Forms (modals or page): create/update collection, create/update bid
+5. Feel free to utilize [shadcn](ui.shadcn.com) and other ui lib for the frontend part.
 
 
 ### Example Layout
