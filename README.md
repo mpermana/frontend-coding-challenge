@@ -82,3 +82,4 @@ All of this should be delivered on a repository that you will create on github a
 - mon@luxor.tech
 - carl@luxor.tech
 - eddie@luxor.tech
+- macky.bugarin@luxor.tech
