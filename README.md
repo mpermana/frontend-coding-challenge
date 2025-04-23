@@ -78,8 +78,10 @@ user {
 
 All of this should be delivered on a repository that you will create on github and share with:
 
+- thomas.cook@luxor.tech
 - albert.ilagan@luxor.tech
 - mon@luxor.tech
 - carl@luxor.tech
 - eddie@luxor.tech
 - macky.bugarin@luxor.tech
+- alexander.armua@luxor.tech
