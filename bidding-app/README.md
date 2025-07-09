@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Running development server:
 
+Use node v22.17.0
+
 ```
 npm run dev
 ```
