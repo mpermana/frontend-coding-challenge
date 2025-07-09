@@ -50,10 +50,12 @@ How would you address scalability and performance?
 - Compress assets
 - Use CDN for assets
 
-Trade-offs:
+Trade-offs/need to do:
 - Sloppy CSS/classnames, with more time can have more organized CSS classes.
 - Inconsistent button disabled/show, with more time can make them consistent experience.
 - I am using janky native prompt and confirm dialog, which is very fast to implement/use, at the price of looking ugly.
 - After a bid is accepted for a collection, you still can create bid for that collection. With more time and resource, more sanity validation is needed for this. A collection need a status to make sure it can accept one bid only once.
 - All operation does not restrict limit on the item counts, there should be limit on everything.
+- Refactor the page.js into different components/file for easier reading of the code.
+- Remove/clean up .css/assets static files generated from application bootstrap 
 ```
